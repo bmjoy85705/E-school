@@ -1,0 +1,85 @@
+.all-button{
+    border: none;
+    color: #FFFFFF;
+    background: #21B573;
+    border-radius: 15px;
+    padding: 5px 10px;
+    margin: 0;
+}
+.navbar-brand{
+    width: 65%;
+}
+.text-highliter{
+    color: #21B573;
+}
+.paragraph-highliter{
+    color: goldenrod;
+}
+.top-banner{
+    background: #F0FFF0;
+    padding-top: 5%;
+}
+.top-bar{
+    background: #F0FFF0;
+}
+.card{
+    border: none;
+    padding-top: 5%;
+}
+#card-2{
+    background-color: white;
+    box-shadow: 10px 10px 20px wheat;
+}
+.Online-course h3{
+    text-align: center;
+
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.card-footer img{
+    width: 10%;
+}
+.Online-card{
+    border: none;
+    box-shadow: 5px 5px 10px whitesmoke;
+}
+.Online-card:hover{
+    border: 1px solid wheat;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.testimonial-part{
+    height: 300px;
+    margin-top: 5%;
+    
+}
+
+.testimonial-part h3{
+    text-align: center;
+}
+.testimonial-part .row{
+    padding-top: 5%;
+}
+.links-section{
+    border: 1px solid black;
+    background-color:  #282531;
+    color: white;
+    padding-top: 10px 20px;
+    font-weight: bold;
+    margin-top: 5%;
+    
+}
+.links-section a{
+    text-decoration: none;
+    color: white;
+    font-weight: 200;
+}
+.col-md-2{
+    padding: 50px 20px;
+}
+footer p{
+    font-size: 10px;
+    text-align: center;
+}
